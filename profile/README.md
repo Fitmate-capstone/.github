@@ -15,7 +15,7 @@ Project Name: Fitmate
 | A117BSY2819 |Muhammad Tegar Akmal | Mobile Development| Institut Teknologi Nasional Bandung | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-tegar-akmal-985818273/) |
 | A246BSX2967 | Retno ayu astari| Mobile Development | Universitas Kuningan | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/retno-ayu-astari-4548a3294) |
 | C117BSY3986 | Muchammad Fahrizal | Cloud Computing | 	Institut Teknologi Nasional Bandung | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muchammad-fahrizal/) |
-| C117BSY3986 | Rizal Fahmi Alifa |  Cloud Computing | Universitas Singaperbangsa Karawang | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizal-fahmi-alifa-a2a4b41ba/) |
+| C314BSY3641 | Rizal Fahmi Alifa |  Cloud Computing | Universitas Singaperbangsa Karawang | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizal-fahmi-alifa-a2a4b41ba/) |
 
 ## Web Profile
 https://fitmate.framer.website/
