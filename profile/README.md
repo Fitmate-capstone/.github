@@ -7,7 +7,7 @@ Project Name: Fitmate
 ## Fitmate 
 
 ## Team Member 
-![member](https://ik.imagekit.io/RifqiLukmansyah/Fitmate%20(37).png?updatedAt=1703211569149)
+![member](https://ik.imagekit.io/RifqiLukmansyah/Fitmate%20(38).png?updatedAt=1703211706718)
 | Bangkit ID | Name | Learning Path | University |LinkedIn |
 | ---      | ---       | ---       | ---       | ---       |
 | M117BSY0452 | Rifqi Lukmansyah | Machine Learning| Institut Teknologi Nasional Bandung | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifqilukmansyah) |
@@ -22,5 +22,5 @@ Project Name: Fitmate
 https://fitmate.framer.website/
 
 ## Screenshot
-
+![member](https://ik.imagekit.io/RifqiLukmansyah/Fitmate%20(39).png?updatedAt=1703211703805)
 ## 
