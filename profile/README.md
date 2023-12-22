@@ -5,6 +5,9 @@ Team ID: CH2-PS256
 Project Name: Fitmate
 
 ## Fitmate 
+Theme             : Human Healthcare and Living Wellbeing
+
+Mayo Clinic and the U.S. Bureau of Labor Statistics highlights the importance of proper weight training techniques for fat loss, strength, muscle tone, and bone density improvement. Conversely, incorrect techniques can lead to long-term strain and injuries. data from the American Academy of Orthopedic Surgeons indicates about 95% of sports injuries sustained include sprains, strains, contusions, muscle injuries, and similar conditions. According to SPER Market Research, The Indonesian fitness equipment market is growing, driven by increasing health and fitness awareness. This trend indicates a rising interest in exercise equipment, indicating a surge in interest for exercise solutions. The idea of integrating pose estimation technology emerged as a viable solution. Fitmate aims to address these issues by integrating advanced AI technology for real-time workout pose detection, ensuring exercises are performed correctly, thereby reducing the risk of injury.
 
 ## Team Member 
 ![member](https://ik.imagekit.io/RifqiLukmansyah/Fitmate%20(38).png?updatedAt=1703211706718)
