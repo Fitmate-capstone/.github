@@ -23,4 +23,28 @@ https://fitmate.framer.website/
 
 ## Screenshot
 ![member](https://ik.imagekit.io/RifqiLukmansyah/Fitmate%20(39).png?updatedAt=1703211703805)
+![Home](https://ik.imagekit.io/akutegar/akutegar/fitmate/home.png?updatedAt=1702980369826)
+![Detail](https://ik.imagekit.io/akutegar/akutegar/fitmate/detail.png?updatedAt=1702980509261)
+
+
+
+
+
+
+
+![Interactive Screen](https://ik.imagekit.io/akutegar/akutegar/fitmate/interactive_gif_compressed.gif?updatedAt=1702985212059)
+
+
+![Schedule Feature](https://ik.imagekit.io/akutegar/akutegar/fitmate/schedule_feature.png?updatedAt=1702980378326)
+![Notification](https://ik.imagekit.io/akutegar/akutegar/fitmate/notification.png?updatedAt=1702981229938)
+![Search Equipment](https://ik.imagekit.io/akutegar/akutegar/fitmate/search_equiment.png?updatedAt=1702980454074)
+![Profile](https://ik.imagekit.io/akutegar/akutegar/fitmate/profile.png?updatedAt=1702980481576)
+
+## Video demo
+
+https://youtu.be/73_B8rhTml0
+
+## Download Our Apps
+
+You can download it here:   https://github.com/Fitmate-capstone/Fitmate/releases/tag/v1.0.0 OR https://drive.google.com/file/d/1DIC8ZJVDplnGam6QET0zpJXRGiPygYRU/view
 ## 
